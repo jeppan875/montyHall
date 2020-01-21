@@ -1,10 +1,10 @@
 # montyHall
-## Run with yarn
-yarn
-yarn start
+### Run with yarn
+yarn\
+yarn start\
 yarn test
 
-## Run with npm
-npm install
-npm start
+### Run with npm
+npm install\
+npm start\
 npm run test
