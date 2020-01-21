@@ -1,0 +1,14 @@
+{
+  "name": "monty_hall",
+  "version": "1.0.0",
+  "main": "game.js",
+  "author": "Jesper Hägglund",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start": "node game.js"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
